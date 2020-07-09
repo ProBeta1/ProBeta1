@@ -1,4 +1,4 @@
-### Hi there 👋 This is the full stack developer .
+### Hi there 👋 This is an aspiring full stack developer .
 - 🌱 I’m currently learning web scraping !
 
 <!--
