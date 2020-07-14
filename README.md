@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Account Aggregator project .
 
 
-![](https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers.gif =200x200)
+![](https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers.gif)
 
 <!--
 **ProBeta1/ProBeta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
