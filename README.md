@@ -1,8 +1,3 @@
-### Hi there 👋 I am junior full stack developer .
-- 🌱 I’m currently learning web scraping !
-- 🔭 I’m currently working on Account Aggregator project .
-
-
 ![](https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers.gif)
 
 <!--
