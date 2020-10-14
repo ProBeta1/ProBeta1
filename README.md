@@ -1,4 +1,4 @@
-[![Probeta's github stats](https://github-readme-stats.vercel.app/api?username=ProBeta1)](https://github.com/anuraghazra/github-readme-stats)
+[![Probeta's github stats](https://github-readme-stats.vercel.app/api?username=ProBeta1&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ProBeta1/ProBeta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
